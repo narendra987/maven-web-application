@@ -147,7 +147,9 @@
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
-			
+	<!-- <server>
+		<id>nexus</id>
+			</server> -->
 </plugins>
 	</build>
 	
